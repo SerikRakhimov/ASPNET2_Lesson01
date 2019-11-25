@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\Students\Students\Students\bin\Debug\Students.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\Students\Students\Students\bin\Debug\Students.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\Students\Students\Students\bin\Debug\Students.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\Students\Students\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\Students\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\Students\Students\Students\obj\Debug\Students.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET2\Students\Students\Students\obj\Debug\Students.pdb
